@@ -41,3 +41,6 @@ https://github.com/DivijaReddyVarkuti/Arise-The-Daily-Leveling-.git
 - Task editing and recurring tasks
 - Notification/reminder system
 - Activity categories and habit streaks
+## Documentation
+- [Initial Report — Requirements](./Initial_Report_Assignment.pdf)
+- [System Design & Wireframing](./project_2_CSCI_.pdf) 
