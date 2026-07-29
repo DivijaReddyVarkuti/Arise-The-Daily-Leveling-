@@ -23,8 +23,9 @@ below.
 
 ## Setup — run it locally
 1. Clone this repository:
+git clone
 https://github.com/DivijaReddyVarkuti/Arise-The-Daily-Leveling-.git
-2. Open `arise.html` directly in any modern browser (Chrome, Firefox,
+3. Open `arise.html` directly in any modern browser (Chrome, Firefox,
    Edge, Safari) — no server or install step required.
 
 ## Known limitations
